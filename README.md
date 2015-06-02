@@ -47,6 +47,7 @@ Some general keyboard shortcuts that I use frequently.
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` |  |
+| Duplicate Lines Again| `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` |  |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k`  | `ctrl-shift-k` |  |
 | Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` |  |
 | Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` |  |
