@@ -86,3 +86,5 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | `apm upgrade` | Updates all locally installed packages |
 | `apm stars --install` | Installs/updates all packages that you have marked as a favorite (_starred_) in your Atom.io profile |
 | `apm publish minor` | If you're developing your own package, run this in the package's directory to publish a new version of the package, increasing the minor version number by one. |
+#Here's an edit I made!
+## Here's another one!
