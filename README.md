@@ -1,5 +1,5 @@
 # Atom Keyboard Shortcuts
-# Alex is tha! #boss!
+# Doug is tha! #boss!
 This page lists keyboard shortcuts for the [Atom text editor](https://atom.io) that I find valuable and use a lot. Feel free to fork the page and add your own favorites. Pull Requests welcome!
 
 This list is by no means meant to be a complete listing of every available shortcut. It simply lists the shortcuts that I use on a regular basis. For a complete listing of all available shortcuts, consult the _Settings > Keybindings_ page in Atom.
@@ -88,3 +88,4 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | `apm publish minor` | If you're developing your own package, run this in the package's directory to publish a new version of the package, increasing the minor version number by one. |
 #Here's an edit I made!
 ## Here's another one!
+And yet another edit
